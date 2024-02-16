@@ -1,8 +1,8 @@
 -  Hi, I’m @quwah1
--  I’m interested in Computer Science
--  I’m currently learning C++ language
--  I’m looking to become a Software Engingeer
--  How to reach me @quwah1
+-  I study computer science and code as a hobby
+-  I’m currently learning C++ and python
+-  I’m looking to become a Software Engingeer 
+-  I would be open for any Software Delevopment Internships
 -  I have completed many projects in the languages C++, Python and R
 -  Cyber Security is a hobby of mine
   
