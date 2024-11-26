@@ -1,10 +1,9 @@
--  Hi, I’m @quwah1
--  I study computer science and code as a hobby
--  I’m currently learning C++ and python
--  I’m looking to become a Software Engingeer 
+-  I’m @quwah1
+-  I am a software developer
+-  I am able to code in the languages (C++, C-sharp, Python)
+-  My goals are to be a full stack developer
 -  I would be open for any Software Delevopment Internships
--  I have completed many projects in the languages C++, Python and R
--  Cyber Security is a hobby of mine
+-  C++ is my best coding language
   
 
 <!---
