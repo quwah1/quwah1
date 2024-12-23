@@ -1,4 +1,4 @@
--  I’m @quwah1
+-  I’m Yusuf
 -  I am a software developer
 -  I am able to code in the languages (C++, C-sharp, Python)
 -  My goals are to be a full stack developer
